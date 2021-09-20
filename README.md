@@ -6,9 +6,10 @@
 • 🐞 Selenium
 • 🐞 Unittest
 • 🐞 BDD con Behave y Gherkin
-• 🐞 Appium
+• 📱 Appium
 • 📂 Reportes con Allure Framework
-• ☕ Java - Junit
+• ☕ Java 
+• 💻 Kotlin
 • 📂 Page Object Model
 
 
